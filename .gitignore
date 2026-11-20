@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# Chaves e variáveis de ambiente (NUNCA enviar para o GitHub)
+.env
+.env.local
+.env.*.local
+
+# Builds
+dist/
+build/
+.expo/
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
